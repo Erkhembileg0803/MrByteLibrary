@@ -9,8 +9,8 @@
 @media only screen and (max-width: 600px) {
      .pdf-container iframe{
           margin-left: -8px;
-          width: 275px;
-          height: 200vh;
+          width: 450px;
+          height: 400vh;
      }
 }
 
