@@ -9,7 +9,7 @@
 @media only screen and (max-width: 1000px) {
      .pdf-container iframe{
           margin-left: -8px;
-          width: 450px;
+          width: 100%px;
           height: 400vh;
      }
 }
