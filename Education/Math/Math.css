@@ -4,6 +4,7 @@
      padding: 25px;
      gap: 230px;
      display: flex;
+     background: black;
 }
 
 .nav a{
