@@ -243,8 +243,10 @@ hr {
 }
 #search-results {
   margin-top: 20px;
-  color: white;
   border: 1px white solid;
+}
+#search-results{
+     color: white;
 }
 
 
