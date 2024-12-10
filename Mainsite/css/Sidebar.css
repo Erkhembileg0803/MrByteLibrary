@@ -245,8 +245,12 @@ hr {
   margin-top: 20px;
   border: 1px white solid;
 }
-#search-results{
-     color: white;
+#search-results a{
+  color: white;
+}
+#search-results :hover{
+  background: gray;
+  transform:translate(5px);
 }
 
 
