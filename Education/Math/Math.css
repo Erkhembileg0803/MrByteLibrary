@@ -4,7 +4,9 @@
      padding: 25px;
      gap: 230px;
      display: flex;
-     background: black;
+     backdrop-filter: blur(30px);
+     box-shadow: 0px 0px 30px rgba(255,255,255, 0.37);
+     border: 2px solid rgba(255,255,255, 0.18)
 }
 
 .nav a{
