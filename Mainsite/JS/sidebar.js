@@ -99,7 +99,8 @@
         '/Mrbytelibrary/Selfhelp/Productivity/Productivity book pdf/thealchemist.html',
         '/Mrbytelibrary/Selfhelp/Productivity/Productivity book pdf/thefouragreements.html',
         '/Mrbytelibrary/Selfhelp/Productivity/Productivity book pdf/thethirddoor.html',
-        '/Mrbytelibrary/Selfhelp/Productivity/Productivity book pdf/theway.html'
+        '/Mrbytelibrary/Selfhelp/Productivity/Productivity book pdf/theway.html',
+        '/Mrbytelibrary/Selfhelp/Productivity/Productivity book pdf/ultralearning.html'
     ];
 
     filesToSearch.forEach(file => {
