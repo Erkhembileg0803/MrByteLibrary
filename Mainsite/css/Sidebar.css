@@ -45,6 +45,10 @@ body {
    }
    .sidebar.collapsed{
     width: 80px;
+    backdrop-filter: blur(30px);
+    box-shadow: 0px 0px 30px rgba(255,255,255, 0.37);
+    border: 2px solid rgba(255,255,255, 0.18);
+    background: transparent;
    }
    .sidebar.collapsed button{
     width: 50px;
