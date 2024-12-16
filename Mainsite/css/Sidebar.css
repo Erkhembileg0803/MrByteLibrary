@@ -8,7 +8,6 @@ body {
      background-repeat: no-repeat;
      background-attachment: fixed;
      max-width: 1920px;
-     overflow-x: hidden;
      backdrop-filter: blur(5px);
      min-height: 100vh;
      flex-wrap: 1;
